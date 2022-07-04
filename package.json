@@ -1,7 +1,7 @@
 {
   "name": "node-js-template",
   "version": "1.0.0",
-  "description": "joma's template",
+  "description": "Dula's template",
   "main": "index.js",
   "dependencies": {
     "ejs": "^2.5.9",
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jomaoppa/node-js-template.git"
+    "url": ""
   },
   "keywords": [
     "node"
   ],
-  "author": "Joma",
+  "author": "Dula(Demi36)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jomaoppa/node-js-template/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/jomaoppa/node-js-template#readme"
+  "homepage": ""
 }
